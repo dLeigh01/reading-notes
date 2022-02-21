@@ -1,8 +1,6 @@
 # Learning Journal
 
-#### Contents
- - [Growth Mindset](https://github.com/dLeigh01/reading-notes#growth-mindset)
- - [Introduction](https://github.com/dLeigh01/reading-notes#introduction)
+
 
 ## Growth Mindset
  
