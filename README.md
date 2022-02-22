@@ -1,6 +1,6 @@
 # Learning Journal
 
-[markdown syntax](reading-notes/markdown.md)
+[markdown syntax](markdown.md)
 
 ## Growth Mindset
  
