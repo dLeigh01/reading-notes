@@ -1,7 +1,7 @@
 # Learning Journal
 
-[markdown syntax](markdown.md)
-[the coder's computer](console.md)
+- [markdown syntax](markdown.md)
+- [the coder's computer](console.md)
 
 ## Growth Mindset
  
