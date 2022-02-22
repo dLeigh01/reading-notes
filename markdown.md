@@ -20,3 +20,5 @@
  - footnotes are referenced using `[^1]` and created using `[^1]:`
  - you can comment out content using `<!-- -->`
  - markdown formatting is ignorable by prefacing each symbol with a `\`
+
+[< back](README.md)

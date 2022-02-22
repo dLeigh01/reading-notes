@@ -10,7 +10,7 @@ Some important features are
   - syntax highlighting
   - theme variety
   - various available extentions
-  - 
+
 ### Using your Computer's Software
 
 Mac computers come with 'Text Edit" and Windows come with "Notepad", which are both text editors, which you can try over downloading a new program, but they're very bare in terms of features. If you are using these, they must be used in plain text (no bold italics or the likes) and all of your code should go in a single file with appropriate extensions.
@@ -105,7 +105,7 @@ a file extension is generally the 2-4 characters at the end that denote its file
 
 ### Linux is Case Sensitive
 
-it is possible to have two or more files with the same name, but differently capitalized letters. ALso, terminal commands can sometimes have different uses based on different cases.
+it is possible to have two or more files with the same name, but differently capitalized letters. Also, terminal commands can sometimes have different uses based on different cases.
 
 ### Spaces in Names
 
@@ -115,3 +115,5 @@ spacing is how separate items are denoted in the command line, so you couldn't u
 
 if a file or directory name begins with `.` (full stop) then it is hidden. The only thing necessary to change a file status between hidden and visible is to change the name to include or disallow the `.`
 `ls -a` will show hidden files and directories along with the normal items
+
+[< back](README.md)
