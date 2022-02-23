@@ -13,12 +13,12 @@ different people approach wireframing in different ways, often in relation to th
 #### The Best Tools for Wireframing
 
 there are many free tools on the internet and just using a pencil and paper is acceptable, but three good tools with free trials are:
-    - UXPin
-        - building responsive clickable prototypes available in browser
-    - InVision
-        - builds a clickable mockup of the site
-    - Wireframe.cc
-        - online version of pen and paper
+- UXPin
+    - building responsive clickable prototypes available in browser
+- InVision
+    - builds a clickable mockup of the site
+- Wireframe.cc
+    - online version of pen and paper
 
 ## 6 Steps to Making a Wireframe
 
