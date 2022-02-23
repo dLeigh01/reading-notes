@@ -16,4 +16,5 @@
   
   I know it's saying alot when people profess that they want to *change the world* or *redefine the industry* or what have you; honestly I'm not sure where I want this path to take me, but I do know that all I've wanted for a while now is to start walking and just see where I end up. Maybe I end up doing something small, or go to the DOD like my uncle suggested, or I suppose there's a possibility I do end up creating something amazing. Whatever it is, I'm just excited to get out of retail and find something more to do with my life.
 
+
 You can find my github profile [here!](https://github.com/dLeigh01)

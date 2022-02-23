@@ -6,11 +6,11 @@
 
 wireframing allows UX designers to plan the information hierarchy design for their website, app, or product based on how they want users to process information. This lets you figure out where all the information is going before building your code and helps you to plan the layout without concerning yourself with colors, fonts, and content.
 
-### Before You Start
+#### Before You Start
 
 different people approach wireframing in different ways, often in relation to the best approach for whatever the current project is. With a less complex task, you can go straight from a sketch to coding, while a full site may require more steps inbetween to make better sense.
 
-### The Best Tools for Wireframing
+#### The Best Tools for Wireframing
 
 there are many free tools on the internet and just using a pencil and paper is acceptable, but three good tools with free trials are:
     - UXPin
@@ -59,5 +59,7 @@ you want the site to be easy to navigate. If things are confusing or unexpected,
 ### Simplicity is Key
 
 too much info can be distracting and will be detrimental to the user and, as a result, the success of your project. Ideally, your site has as little 'fluff' as possible.
+
+
 
 [< back](README.md)
