@@ -60,6 +60,17 @@ you want the site to be easy to navigate. If things are confusing or unexpected,
 
 too much info can be distracting and will be detrimental to the user and, as a result, the success of your project. Ideally, your site has as little 'fluff' as possible.
 
+# Semantics
 
+semantics refers to the meaning of a piece of code.
+
+## Semantics in HTML
+
+in theory, you could style most things in HTML to look like other tag, such as between an h1 and an h4, but they don't have the same semantic value. HTML should be coded based on data type rather than presentation to assist with
+
+- search engines finding keywords
+- screen readers
+- more easily readable code
+- mirroring proper component naming
 
 [< back](README.md)
