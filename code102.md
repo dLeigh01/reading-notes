@@ -18,6 +18,6 @@
 
 [loops](loops.md)
 
-[code201 >](code201.md)
+[`[`code 201 >`]`](code201.md)
 
-[< home](README.md)
+[`[`< home`]`](README.md)

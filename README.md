@@ -1,8 +1,8 @@
 # Learning Journal
 
-[code 102](code102.md)
+[code 102 reading notes](code102.md)
 
-[code 201](code201.md)
+[code 201 reading notes](code201.md)
 
 ## Introduction
 
