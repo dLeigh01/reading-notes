@@ -116,4 +116,6 @@ remote repos allow collaboration within teams by letting them clone the repos to
 
 `git remote` shows the short names of all specified remotes locally, while `git remote -v` shows the URLs by their short names.
 
-[< back](README.md)
+[< table of contents](code102.md)
+
+[< home](README.md)

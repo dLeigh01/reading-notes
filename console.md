@@ -116,4 +116,6 @@ spacing is how separate items are denoted in the command line, so you couldn't u
 if a file or directory name begins with `.` (full stop) then it is hidden. The only thing necessary to change a file status between hidden and visible is to change the name to include or disallow the `.`
 `ls -a` will show hidden files and directories along with the normal items
 
-[< back](README.md)
+[< table of contents](code102.md)
+
+[< home](README.md)

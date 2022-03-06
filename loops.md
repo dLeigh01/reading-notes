@@ -26,4 +26,6 @@ a while loop executes its statement as long as a specific condition is true.
 
 if the condition becomes false the statement stops and exits the loop. for multiple statement you can use a code block.
 
+[< table of contents](code102.md)
+
 [< back](README.md)

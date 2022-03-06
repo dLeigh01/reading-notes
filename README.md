@@ -1,22 +1,8 @@
 # Learning Journal
 
-[growth mindset](growthMindset.md)
+[code 102](code102.md)
 
-[markdown syntax](markdown.md)
-
-[the coder's computer](console.md)
-
-[introduction to git](gitIntro.md)
-
-[structuring webpages with html](HTML.md)
-
-[what is css?](css.md)
-
-[dynamic web pages with javascript](javascript.md)
-
-[functions and operators](functions.md)
-
-[loops](loops.md)
+[code 201](code201.md)
 
 ## Introduction
 

@@ -65,4 +65,6 @@ you can declare as many variables as you want in one line as long as they're sep
 
 if you re-declare a variable with the same name, it will still have the same contents.
 
-[< back](README.md)
+[< table of contents](code102.md)
+
+[< home](README.md)

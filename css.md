@@ -32,4 +32,6 @@ all web standards technologies are defined in documents called specifications, w
 
 new features often don't take effect in all browsers at the same time, so you can check whether features are included using 'Browser Compatability'.
 
-[< back](README.md)
+[< table of contents](code102.md)
+
+[< home](README.md)

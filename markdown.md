@@ -21,4 +21,6 @@
  - you can comment out content using `<!-- -->`
  - markdown formatting is ignorable by prefacing each symbol with a `\`
 
-[< back](README.md)
+[< table of contents](code102.md)
+
+[< home](README.md)

@@ -73,4 +73,6 @@ in theory, you could style most things in HTML to look like other tag, such as b
 - more easily readable code
 - mirroring proper component naming
 
-[< back](README.md)
+[< table of contents](code102.md)
+
+[< home](README.md)

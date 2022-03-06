@@ -67,4 +67,6 @@ variables declared within a function can only be accessed from within that funct
 - `>>` right shift
 - `>>>` unsigned right shift
 
-[< back](README.md)
+[< table of contents](code102.md)
+
+[< home](README.md)

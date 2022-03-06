@@ -7,4 +7,6 @@
   - If something takes effort, it means you're getting better
   - Every criticism is a way to better yourself and your skills
 
-[< back](README.md)
+[< table of contents](code102.md)
+
+[< home](README.md)
