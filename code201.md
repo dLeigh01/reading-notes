@@ -1,6 +1,6 @@
 # Code 201 Table of Contents
 
-1. 
+1. [introductory html and javascript](class-01.md)
 
 2. 
 
