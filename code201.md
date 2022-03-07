@@ -2,7 +2,7 @@
 
 1. [introductory html and javascript](class-01.md)
 
-2. 
+2. [basics of html, css, & javascript](class-02.md)
 
 3. 
 
