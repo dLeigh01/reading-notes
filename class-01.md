@@ -2,6 +2,8 @@
 
 ## HTML
 
+ <!--from HTML&CSS by Jon Duckett-->
+
 ### Structure
 
 the use of headings and subheadings creates a hierarchy of information in any document, and different topics are often separated by space. This same thing is achievable in HTML using code words such as `<body>` and `<h1>` which are called tags. Anything the tags encompass, including the tags themselves, are called an element.
@@ -93,6 +95,8 @@ navigation is also a very important piece of design, as it helps visitors to nav
 - consistent (secondary navigation can change between pages, but the primary should always remain the same)
 
 ## JavaScript
+
+ <!--from JavaScript&JQuery by Jon Duckett-->
 
 ### What is a Script and How Do I Create One?
 
