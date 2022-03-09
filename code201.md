@@ -4,7 +4,7 @@
 
 2. [basics of html, css, & javascript](class-02.md)
 
-3. 
+3. [html lists, control flow with js, & css box model](class-03.md)
 
 4. 
 
