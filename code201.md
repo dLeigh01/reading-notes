@@ -6,7 +6,7 @@
 
 3. [html lists, control flow with js, & css box model](class-03.md)
 
-4. 
+4. [html links, js functions, & intro to css layout](class-04.md)
 
 5. 
 
