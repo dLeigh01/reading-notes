@@ -8,7 +8,7 @@
 
 4. [html links, js functions, & intro to css layout](class-04.md)
 
-5. 
+5. [html images; css color and text](class-05.md);
 
 6. 
 
