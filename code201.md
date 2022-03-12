@@ -10,7 +10,7 @@
 
 5. [html images; css color and text](class-05.md);
 
-6. 
+6. [problem domain, objects, and the dom](class-06.md);
 
 7. 
 
