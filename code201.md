@@ -14,7 +14,7 @@
 
 7. [object-oriented programming and html tables](class-07.md)
 
-8. 
+8. [css layout](class-08.md)
 
 9. 
 
