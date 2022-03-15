@@ -12,7 +12,7 @@
 
 6. [problem domain, objects, and the dom](class-06.md)
 
-7. 
+7. [object-oriented programming and html tables](class-07.md)
 
 8. 
 
