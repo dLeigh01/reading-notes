@@ -18,7 +18,7 @@
 
 9. [forms and js events](class-09.md)
 
-10. 
+10. [debugging](class-10.md)
 
 11. 
 
