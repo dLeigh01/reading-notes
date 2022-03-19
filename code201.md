@@ -20,7 +20,7 @@
 
 10. [debugging](class-10.md)
 
-11. 
+11. [audio, video, images](class-11.md)
 
 12. 
 
