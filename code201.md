@@ -22,7 +22,7 @@
 
 11. [audio, video, images](class-11.md)
 
-12. 
+12. [chart.js and canvas](class-12.md)
 
 13. 
 
