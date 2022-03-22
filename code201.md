@@ -26,7 +26,7 @@
 
 13. [local storage](class-13.md)
 
-14. 
+14. [css transforms, transitions, and animations](class-14.md)
 
 15. 
 
