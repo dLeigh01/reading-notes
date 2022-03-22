@@ -24,7 +24,7 @@
 
 12. [chart.js and canvas](class-12.md)
 
-13. 
+13. [local storage](class-13.md)
 
 14. 
 
