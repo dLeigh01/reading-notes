@@ -6,6 +6,7 @@
 4. [React and Forms](301-class-04.md)
 5. [Putting it All Together](301-class-05.md)
 6. [NODE.JS](301-class-06.md)
+7. [REST](301-class-07.md)
 
 [`[`< code 201`]`](code201.md)
 
