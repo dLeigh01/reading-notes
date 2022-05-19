@@ -8,6 +8,7 @@
 6. [NODE.JS](301-class-06.md)
 7. [REST](301-class-07.md)
 8. [APIs](301-class-08.md)
+9. [Functional Programming](301-class-09.md)
 
 [`[`< code 201`]`](code201.md)
 
