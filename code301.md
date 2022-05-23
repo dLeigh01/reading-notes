@@ -10,6 +10,7 @@
 8. [APIs](301-class-08.md)
 9. [Functional Programming](301-class-09.md)
 10. [In Memory Storage](301-class-10.md)
+11. [Mongo and Mongoose](301-class-11.md)
 
 [`[`< code 201`]`](code201.md)
 
