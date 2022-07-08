@@ -8,6 +8,6 @@ This site is a place for me to store all of the notes I accumulate throughout my
 
 - ## [Code 301 - *Intermediate Software Development*](code301.md)
 
-- ## Code 401 - *Advanced Software Development*
+- ## [Code 401 - *Advanced Software Development*](code401.md)
 
 You can find my github profile [here!](https://github.com/dLeigh01)
