@@ -1,6 +1,6 @@
 # Code 401 Table of Contents
 
-1.
+1. [SQL Practice](401-01.md)
 
 [`[`< code 301`]`](code301.md)
 
