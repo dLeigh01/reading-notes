@@ -3,6 +3,7 @@
 1. [SQL Practice](401-01.md)
 2. [Command Line Practice](401-02.md)
 3. [Growth Mindset](401-03.md)
+4. [Engineering Readings](401-04.md)
 
 [`[`< code 301`]`](code301.md)
 
