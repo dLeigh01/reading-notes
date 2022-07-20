@@ -6,6 +6,7 @@
 4. [Engineering Readings](401-04.md)
 5. [Starting Python](401-05.md)
 6. [Testing and Modules](401-06.md)
+7. [FileIO and Exceptions](401-07.md)
 
 [`[`< code 301`]`](code301.md)
 
