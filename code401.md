@@ -7,6 +7,7 @@
 5. [Starting Python](401-05.md)
 6. [Testing and Modules](401-06.md)
 7. [FileIO and Exceptions](401-07.md)
+8. [Classes, Recursion, Fixtures and Coverage](401-08.md)
 
 [`[`< code 301`]`](code301.md)
 
