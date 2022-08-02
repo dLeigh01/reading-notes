@@ -12,7 +12,7 @@
 10. [Ten Thousand 2](401-10.md)
 11. [Ten Thousand 3](401-11.md)
 12. [Data Analysis](401-12.md)
-13. Pandas
+13. [Pandas](401-13.md)
 14. Linear Regressions
 15. Data Visualization
 16. [Serverless Functions](401-16.md)
