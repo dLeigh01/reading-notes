@@ -16,6 +16,7 @@
 14. [Linear Regressions](401-14.md)
 15. [Data Visualization](401-15.md)
 16. [Serverless Functions](401-16.md)
+17. [Web Scraping](401-17.md)
 
 [`[`< code 301`]`](code301.md)
 
