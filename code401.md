@@ -17,6 +17,7 @@
 15. [Data Visualization](401-15.md)
 16. [Serverless Functions](401-16.md)
 17. [Web Scraping](401-17.md)
+18. [Cryptography](401-18.md)
 
 [`[`< code 301`]`](code301.md)
 
