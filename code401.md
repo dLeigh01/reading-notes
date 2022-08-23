@@ -19,6 +19,8 @@
 17. [Web Scraping](401-17.md)
 18. [Cryptography](401-18.md)
 19. [Automation](401-19.md)
+20. [Intro to Django]
+21. [Django Models](401-21.md)
 
 [`[`< code 301`]`](code301.md)
 
