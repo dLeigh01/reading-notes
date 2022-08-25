@@ -22,6 +22,7 @@
 20. [Intro to Django](401-20.md)
 21. [Django Models](401-21.md)
 22. [Django and CRUD Forms](401-22.md)
+23. [Django Custom User](401-23.md)
 
 [`[`< code 301`]`](code301.md)
 
