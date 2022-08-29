@@ -23,6 +23,7 @@
 21. [Django Models](401-21.md)
 22. [Django and CRUD Forms](401-22.md)
 23. [Django Custom User](401-23.md)
+24. [Django REST Framework and Docker](401-24.md)
 
 [`[`< code 301`]`](code301.md)
 
