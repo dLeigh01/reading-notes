@@ -26,6 +26,7 @@
 24. [Django REST Framework and Docker](401-24.md)
 25. [Permissions & PostgreSQL](401-25.md)
 26. [Authentication & Production Server](401-26.md)
+27. [API Deployment](401-27.md)
 
 [`[`< code 301`]`](code301.md)
 
