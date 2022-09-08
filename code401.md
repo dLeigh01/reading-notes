@@ -29,6 +29,7 @@
 27. [API Deployment](401-27.md)
 28. [DSA Review](401-28.md)
 29. [React 1](401-29.md)
+30. [React 2](401-30.md)
 
 [`[`< code 301`]`](code301.md)
 
