@@ -31,6 +31,8 @@
 29. [React 1](401-29.md)
 30. [React 2](401-30.md)
 31. [React 3](401-31.md)
+32. React 4
+33. [Pythonisms](401-33.md)
 
 [`[`< code 301`]`](code301.md)
 
