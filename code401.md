@@ -33,6 +33,7 @@
 31. [React 3](401-31.md)
 32. React 4
 33. [Pythonisms](401-33.md)
+34. [Ethics in Tech](401-34.md)
 
 [`[`< code 301`]`](code301.md)
 
